@@ -27,3 +27,10 @@ A DVD-style bouncing logo screensaver for Linux/Unix systems using X11 and Imlib
 **Debian/Ubuntu:**
 ```bash
 sudo apt install build-essential libimlib2-dev libx11-dev libxext-dev pkg-config
+
+## Third-party assets
+
+This project uses Tux, the Linux mascot, originally created
+by Larry Ewing in 1996 using GIMP.
+
+See [ATTRIBUTION](ATTRIBUTION) for details.
